@@ -1,0 +1,9 @@
+Steps when updating github:
+1. su
+2. git add .
+3. git config --global user.name "hansx7" 
+4. git config --global user.email "harryhan.1996@163.com"
+5. git commit -m ""
+6. git remote add origin https://github.com/hansx7/XXX.git
+7. git push origin master
+ps: 3/4 are not always asked, 6 is not asked after the first time
